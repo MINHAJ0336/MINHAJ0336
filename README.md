@@ -30,7 +30,7 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/minhaj-ahmed-khan/" target="_blank">
+<a href="[https://www.linkedin.com/in/minhaj-ahmed-khan](https://www.linkedin.com/in/minhaj-ahmed-khan-a6b662201/)/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:muneebahmedkhan1995@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
