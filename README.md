@@ -104,12 +104,12 @@
 </p>
 ---
 
-# 🏆 GitHub Trophies
+# 🚀 Featured Projects
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MINHAJ0336&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-</p>
+| 🚀 Project | 💻 Tech Stack | 🌐 Live Demo | 📂 Source Code |
+|------------|---------------|--------------|----------------|
+| 🌐 Portfolio Website | React.js, Vite, CSS | [Live Demo](https://minhajahmedkhanportfolio.netlify.app/) | [GitHub](https://github.com/MINHAJ0336/portfolio) |
+| 💎 Jewellery Store | React.js, Tailwind CSS | [Live Demo](https://jewellery-mauve.vercel.app/) | [GitHub](https://github.com/MINHAJ0336/jewellery-store) |
 
 ---
 
