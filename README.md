@@ -121,11 +121,6 @@
 
 </p>
 
----
-
-# ⚡ Featured Technologies
-
-<p>
 
 # ⚡ Skills & Technologies
 
@@ -159,13 +154,13 @@
 
 </p>
 
-</p>
+
 
 ---
 
 # 💬 Favorite Quote
 
-> **"Code. Learn. Build. Repeat."** 🚀
+> **"Code with passion. Build with purpose. Never stop learning."** 🚀
 
 ---
 
