@@ -111,7 +111,7 @@
 | ❄️ COSY AIR CONDITIONERS | HTML5, CSS3, JavaScript | [Live Demo](https://web1-smoky.vercel.app/) | [GitHub](https://github.com/MINHAJ0336/cosy-air-conditioners) |
 | 🏥 Cambridge Hospital | HTML5, CSS3, JavaScript | [Live Demo](https://hospital-puce-sigma.vercel.app/) | [GitHub](https://github.com/MINHAJ0336/cambridge-hospital) |
 | 💎 Jewellery Store | React.js, Tailwind CSS | [Live Demo](https://jewellery-mauve.vercel.app/) | [GitHub](https://github.com/MINHAJ0336/jewellery-store) |
-| 🍽️ RestoHub | React.js, Tailwind CSS, Supabase | [Live Demo](https://minhajfoodwebsite.netlify.app/) | [GitHub](https://github.com/MINHAJ0336/your-repository-name) |
+| 🍽️ RestoHub | React.js, Tailwind CSS, Supabase | [Live Demo](https://minhajfoodwebsite.netlify.app/) | [GitHub](https://github.com/MINHAJ0336/React_Food_website.git) |
 
 # 📈 Contribution Graph
 
