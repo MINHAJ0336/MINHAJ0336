@@ -107,7 +107,7 @@
 
 | 🚀 Project | 💻 Tech Stack | 🌐 Live Demo | 📂 Source Code |
 |------------|---------------|--------------|----------------|
-| 🌐 Portfolio Website | React.js, Vite, CSS | [Live Demo](https://minhajahmedkhanportfolio.netlify.app/) | [GitHub](https://github.com/MINHAJ0336/portfolio) |
+| 🌐 Portfolio Website | React.js, Vite, CSS | [Live Demo](https://minhajahmedkhanportfolio.netlify.app/) | [GitHub](https://github.com/MINHAJ0336/meportfolio.git) |
 | ❄️ COSY AIR CONDITIONERS | HTML5, CSS3, JavaScript | [Live Demo](https://web1-smoky.vercel.app/) | [GitHub](https://github.com/MINHAJ0336/cosy-air-conditioners) |
 | 🏥 Cambridge Hospital | HTML5, CSS3, JavaScript | [Live Demo](https://hospital-puce-sigma.vercel.app/) | [GitHub](https://github.com/MINHAJ0336/cambridge-hospital) |
 | 💎 Jewellery Store | React.js, Tailwind CSS | [Live Demo](https://jewellery-mauve.vercel.app/) | [GitHub](https://github.com/MINHAJ0336/jewellery-store) |
