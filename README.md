@@ -1,213 +1,278 @@
 <div align="center">
 
-# Minhaj Ahmed Khan
+# 👋 Hi, I'm Minhaj Ahmed Khan
 
-### `MINHAJ0336`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=MINHAJ0336;Full+Stack+Developer;MERN+Stack+Developer;React.js+Developer;Node.js+Developer;PHP+Laravel+Developer;Building+Modern+Web+Applications" alt="Typing Animation" />
 
-**Full Stack Developer • MERN Stack Developer • Web Developer**
+### `MINHAJ0336` • Full Stack Developer • MERN Stack Developer
 
-Building modern, responsive and scalable web applications.
+📍 **Hyderabad, Sindh, Pakistan**
 
-📍 **Hyderabad, Sindh, Pakistan 🇵🇰**
-
-<br/>
+<br>
 
 <a href="https://github.com/MINHAJ0336">
-<img src="https://img.shields.io/badge/GitHub-MINHAJ0336-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-MINHAJ0336-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://linkedin.com/in/minhaj-ahmed-khan-a6b662201">
-<img src="https://img.shields.io/badge/LinkedIn-Minhaj%20Ahmed%20Khan-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Minhaj%20Ahmed%20Khan-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://minhajahmedkhanportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Portfolio-Live-00C7B7?style=for-the-badge&logo=netlify" alt="Portfolio"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MINHAJ0336&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MINHAJ0336&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-Hi 👋 I'm **Minhaj Ahmed Khan**, known online as **MINHAJ0336**.
+## 🚀 About Me
 
-I'm a **Full Stack Developer and MERN Stack Developer** from **Hyderabad, Sindh, Pakistan**, focused on creating modern, responsive and user-friendly web applications.
+</div>
 
-I work across both frontend and backend development, turning ideas into functional digital products.
+I'm **Minhaj Ahmed Khan**, professionally known online as **MINHAJ0336**.
 
-### What I Do
+I'm a **Full Stack Developer** and **MERN Stack Developer** from **Hyderabad, Sindh, Pakistan**, focused on building modern, responsive and user-friendly web applications.
 
-* ⚛️ Build modern interfaces with **React.js**
-* 🟢 Develop backend applications with **Node.js & Express.js**
-* 🍃 Work with **MongoDB & REST APIs**
-* 🐘 Develop web applications using **PHP & Laravel**
-* 🎨 Create responsive UI with **Tailwind CSS & Bootstrap**
-* 🔐 Implement authentication and protected application flows
-* 🔧 Manage projects with **Git & GitHub**
+I work with both frontend and backend technologies and continuously improve my skills by building real-world projects.
 
----
+### 👨‍💻 Developer Identity
 
-## 🧑‍💻 Developer Identity
-
-|                      |                             |
-| -------------------- | --------------------------- |
-| **Name**             | Minhaj Ahmed Khan           |
-| **Developer ID**     | `MINHAJ0336`                |
-| **Role**             | Full Stack Developer        |
-| **Specialization**   | MERN Stack Developer        |
-| **Additional Stack** | PHP & Laravel               |
-| **Location**         | Hyderabad, Sindh, Pakistan  |
-| **Focus**            | Web Application Development |
+|                         |                                    |
+| ----------------------- | ---------------------------------- |
+| 👤 **Name**             | Minhaj Ahmed Khan                  |
+| 🆔 **Developer ID**     | MINHAJ0336                         |
+| 💼 **Role**             | Full Stack Developer               |
+| ⚡ **Specialization**    | MERN Stack Developer               |
+| ⚛️ **Frontend**         | React.js, JavaScript, HTML5, CSS3  |
+| 🟢 **Backend**          | Node.js, Express.js                |
+| 🍃 **Database**         | MongoDB, MySQL                     |
+| 🐘 **Additional Stack** | PHP, Laravel                       |
+| 📍 **Location**         | Hyderabad, Sindh, Pakistan         |
+| 🎯 **Focus**            | Modern Web Application Development |
 
 ---
 
-## 🛠️ Technologies
+<div align="center">
 
-### Frontend
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,vite"/>
-</p>
+### 🎨 Frontend Development
 
-### Backend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,bootstrap,tailwind,vite" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel"/>
-</p>
+### ⚙️ Backend Development
 
-### Database & Services
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php,laravel" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase"/>
-</p>
+### ☁️ Tools & Technologies
 
-### Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,supabase,cloudinary,vercel,netlify,npm" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm,vercel,netlify"/>
-</p>
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-### 🍽️ RestoHub
+</div>
 
-A modern food ordering web application with authentication, cart, orders and dashboard functionality.
+### 🍽️ RestoHub — Food Ordering Platform
 
-**Tech:** React.js • Tailwind CSS • Supabase
+**React.js • Tailwind CSS • Supabase • PostgreSQL • Framer Motion • EmailJS**
 
-🌐 [Live Demo](https://minhajfoodwebsite.netlify.app/)
-📂 [Source Code](https://github.com/MINHAJ0336/React_Food_website)
+A modern food ordering web application with authentication, cart management, orders, protected routes, OTP password reset and admin dashboard.
+
+**Features**
+
+* 🔐 Authentication
+* 🛒 Shopping Cart
+* 📦 Order Management
+* 👨‍💼 Admin Dashboard
+* 🔑 OTP Password Reset
+* 🛡️ Protected Routes
+* 📱 Responsive UI
+
+**Live:**
+https://minhajfoodwebsite.netlify.app/
+
+**Repository:**
+https://github.com/MINHAJ0336/React_Food_website
 
 ---
 
 ### 💎 Jewellery Store
 
-Responsive jewellery e-commerce interface focused on modern UI and responsive design.
+**React.js • Tailwind CSS**
 
-**Tech:** React.js • Tailwind CSS
+A modern responsive jewellery store interface with a clean product-focused design.
 
-🌐 [Live Demo](https://jewellery-mauve.vercel.app/)
-📂 [Source Code](https://github.com/MINHAJ0336/jewellery)
+**Live:**
+https://jewellery-mauve.vercel.app/
 
----
-
-### ❄️ COSY AIR CONDITIONERS
-
-Responsive business website developed for an air-conditioning company.
-
-**Tech:** HTML5 • CSS3 • JavaScript
-
-🌐 [Live Demo](https://web1-smoky.vercel.app/)
-📂 [Source Code](https://github.com/MINHAJ0336/web1)
+**Repository:**
+https://github.com/MINHAJ0336/jewellery
 
 ---
 
 ### 🏥 Cambridge Hospital
 
-Responsive hospital website with a clean and user-friendly interface.
+**HTML5 • CSS3 • JavaScript**
 
-**Tech:** HTML5 • CSS3 • JavaScript
+Responsive hospital website designed with a clean and professional healthcare interface.
 
-🌐 [Live Demo](https://hospital-puce-sigma.vercel.app/)
-📂 [Source Code](https://github.com/MINHAJ0336/Hospital)
+**Live:**
+https://hospital-puce-sigma.vercel.app/
+
+**Repository:**
+https://github.com/MINHAJ0336/Hospital
 
 ---
 
-## 📊 GitHub Statistics
+### ❄️ COSY AIR CONDITIONERS
+
+**HTML5 • CSS3 • JavaScript**
+
+Responsive business website created for an air-conditioning service company.
+
+**Live:**
+https://web1-smoky.vercel.app/
+
+**Repository:**
+https://github.com/MINHAJ0336/web1
+
+---
+
+### 💻 Personal Portfolio
+
+**React.js • Vite • CSS**
+
+Personal developer portfolio showcasing my skills, projects and development experience.
+
+**Live:**
+https://minhajahmedkhanportfolio.netlify.app/
+
+**Repository:**
+https://github.com/MINHAJ0336/meportfolio
+
+---
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MINHAJ0336&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 📊 GitHub Analytics
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MINHAJ0336&layout=compact&theme=tokyonight&hide_border=true"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MINHAJ0336&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MINHAJ0336&hide_border=true&theme=tokyonight" width="49%" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINHAJ0336&layout=compact&hide_border=true&theme=tokyonight" width="45%" />
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MINHAJ0336&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MINHAJ0336&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MINHAJ0336&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
 ---
 
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🎯 Current Focus
 
+### Building • Learning • Improving
+
+</div>
+
 ```text
-React.js
-   ↓
-Next.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-REST APIs
-   ↓
-Full Stack Applications
+⚛️ React.js
+🟢 Node.js
+🚂 Express.js
+🍃 MongoDB
+🔐 Authentication & Authorization
+🔌 REST APIs
+☁️ Cloud Services
+🎨 Responsive UI/UX
+🚀 Full Stack Development
+🐙 Git & GitHub
 ```
 
-I'm continuously improving my skills in modern JavaScript, React.js, backend development, databases, APIs and full-stack application architecture.
+---
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript" />
+
+<br><br>
+
+**React.js • Next.js • Node.js • Express.js • MongoDB • TypeScript**
+
+</div>
 
 ---
 
-## 🌍 Open To
+<div align="center">
 
-* 💼 Full Stack Developer opportunities
-* ⚛️ MERN Stack Developer opportunities
-* 🌐 Web Development roles
-* 🧑‍💻 Frontend / React.js opportunities
-* 🐘 PHP Laravel opportunities
-* 🌍 Remote opportunities
-* 🤝 Freelance projects
-* 🚀 Collaboration on web projects
+## 💡 Development Philosophy
+
+### `"Build it. Break it. Learn from it. Improve it. Repeat."`
+
+</div>
 
 ---
 
-## 🔎 Find Me Online
+<div align="center">
+
+## 🌐 Connect With Me
+
+<a href="https://github.com/MINHAJ0336">
+<img src="https://img.shields.io/badge/GitHub-MINHAJ0336-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://linkedin.com/in/minhaj-ahmed-khan-a6b662201">
+<img src="https://img.shields.io/badge/LinkedIn-Minhaj%20Ahmed%20Khan-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://minhajahmedkhanportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C7B7?style=for-the-badge&logo=netlify" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔎 Developer Search Identity
 
 **MINHAJ0336**
 
@@ -217,29 +282,11 @@ I'm continuously improving my skills in modern JavaScript, React.js, backend dev
 
 **MINHAJ0336 MERN Stack Developer**
 
+**Minhaj Ahmed Khan React.js Developer**
+
 **Minhaj Ahmed Khan Web Developer**
 
-**Minhaj Ahmed Khan Hyderabad**
-
----
-
-## 🤝 Let's Connect
-
-If you're interested in web development, collaboration, software projects or technology, feel free to connect with me.
-
-<div align="center">
-
-### 💻 GitHub
-
-**github.com/MINHAJ0336**
-
-### 💼 LinkedIn
-
-**linkedin.com/in/minhaj-ahmed-khan-a6b662201**
-
-### 🌐 Portfolio
-
-**minhajahmedkhanportfolio.netlify.app**
+**Minhaj Ahmed Khan Hyderabad Sindh Pakistan**
 
 </div>
 
@@ -247,12 +294,12 @@ If you're interested in web development, collaboration, software projects or tec
 
 <div align="center">
 
-### ⚡ Build. Learn. Improve. Repeat.
+## ⭐ Thanks for Visiting My Profile!
 
-**MINHAJ0336**
+If you like my work, consider giving my repositories a ⭐
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%" />
 
 </div>
